@@ -1,4 +1,4 @@
-// Task 2 — Chaining
+
 let success = true;
 
 const myPromise = new Promise((resolve, reject) => {

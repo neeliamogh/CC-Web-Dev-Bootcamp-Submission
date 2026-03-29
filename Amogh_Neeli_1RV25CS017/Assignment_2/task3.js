@@ -1,4 +1,4 @@
-// Task 3 — Countdown Timer
+
 let count = 5;
 
 const interval = setInterval(() => {

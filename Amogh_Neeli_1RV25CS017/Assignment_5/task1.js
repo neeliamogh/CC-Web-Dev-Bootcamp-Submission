@@ -1,4 +1,4 @@
-// Task 1 — Promise.all()
+
 const p1 = new Promise((resolve) => setTimeout(() => resolve("User loaded"), 1000));
 const p2 = new Promise((resolve) => setTimeout(() => resolve("Orders loaded"), 2000));
 const p3 = new Promise((resolve) => setTimeout(() => resolve("Products loaded"), 3000));

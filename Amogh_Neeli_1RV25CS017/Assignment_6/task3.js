@@ -1,4 +1,4 @@
-// Task 3 — Async/Await + Error Handling
+
 function dividePromise(a, b) {
   return new Promise((resolve, reject) => {
     if (b === 0) reject("Cannot divide by zero!");

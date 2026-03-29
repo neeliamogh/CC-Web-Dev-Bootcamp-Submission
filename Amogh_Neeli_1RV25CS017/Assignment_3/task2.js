@@ -1,4 +1,4 @@
-// Task 2 — Try / Catch / Finally
+
 try {
   JSON.parse("not a number");
 } catch (e) {

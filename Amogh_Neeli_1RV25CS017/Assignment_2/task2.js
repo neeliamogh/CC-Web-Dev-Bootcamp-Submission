@@ -1,4 +1,4 @@
-// Task 2 — setInterval + clearInterval
+
 let count = 0;
 
 const interval = setInterval(() => {

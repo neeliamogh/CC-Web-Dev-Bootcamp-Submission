@@ -1,4 +1,4 @@
-// Task 2 — Arrow Function
+
 const greet = (name) => `Hello, ${name}!`;
 
 const add = (a, b) => a + b;

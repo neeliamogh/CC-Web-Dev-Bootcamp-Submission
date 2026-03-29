@@ -1,4 +1,4 @@
-// Task 1 — Basic Async/Await
+
 const myPromise = new Promise((resolve, reject) => {
   let success = true;
   setTimeout(() => {

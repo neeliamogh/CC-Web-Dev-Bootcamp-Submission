@@ -1,4 +1,4 @@
-// Task 1 — Basic Promise
+
 let success = true;
 
 const myPromise = new Promise((resolve, reject) => {
